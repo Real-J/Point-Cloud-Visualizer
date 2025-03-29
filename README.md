@@ -60,6 +60,9 @@ Displays a 2D projection (XY plane) of the point cloud.
 ## Sample Output
 ![zero](img1.PNG)
 
+
+![zero2](img2.PNG)
+
 ## License
 This project is open source and available under the MIT License.
 
