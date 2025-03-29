@@ -58,9 +58,8 @@ Renders a 3D scatter plot of the point cloud.
 Displays a 2D projection (XY plane) of the point cloud.
 
 ## Sample Output
-```
-Sample 0 → Digit: 3, Points: (12864, 3)
-```
+![spline bottle](bottle.PNG)
+
 ## License
 This project is open source and available under the MIT License.
 
