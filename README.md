@@ -1,6 +1,6 @@
 # Point Cloud Visualizer
 
-This project is a simple 3D and 2D visualization tool for point cloud data stored in HDF5 (.h5) format. It's useful for quickly inspecting and plotting 3D point cloud datasets, especially those used in machine learning tasks such as digit recognition or object detection.
+This project is a simple 3D and 2D visualization tool for point cloud data stored in HDF5 (.h5) format. This  project can be used to visualize 3d mnist dataset.
 
 ## Dataset Overview
 The aim of this dataset is to provide a simple way to get started with 3D computer vision problems such as 3D shape recognition.
